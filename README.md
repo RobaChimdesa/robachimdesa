@@ -11,7 +11,7 @@
 <h1 align="center">Hi there, I'm Roba Chimdesa 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Web Design | Clean Code Enthusiast
+  Computer Engineer Full Stack Developer | Web Design | Clean Code Enthusiast
 </p>
 
 ---
