@@ -1,29 +1,28 @@
-<!-- Profile banner (you can replace with your own or use a tool like shields.io/banner or svg generator) -->
+<!-- Profile banner -->
 <p align="center">
-  <img src="sadem_hussen_header.png" alt="Sadem Hussen banner" />
+  <img src="roba_chimdesa_banner.png" alt="Roba Chimdesa banner" />
 </p>
 
-
-
+<!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Python,+Django,+React+Expert;Clean+Code+Advocate&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Design+Specialist;Django+%26+React+Expert;Clean+Code+Advocate&center=true&width=500&height=45">
 </p>
 
-<h1 align="center">Hey, I'm Sadem Hussen 👋</h1>
+<h1 align="center">Hi there, I'm Roba Chimdesa 👋</h1>
 
 <p align="center">
-  Full Stack Developer | Clean Code Enthusiast | Always Shipping
+  Full Stack Developer | Web Design | Clean Code Enthusiast
 </p>
 
 ---
 
 ### 💼 About Me
 
-- 🔭 Working on full stack apps with Django & React
-- 🌱 Exploring system design, testing, and DevOps
-- ⚙️ Tech stack includes: Python, JavaScript, Django, React, PostgreSQL
+- 🔭 Currently working on full stack apps with **Django** & **React**
+- 🌱 Exploring **system design**, **testing**, and **DevOps**
+- ⚙️ My tech stack includes: **Python**, **JavaScript**, **Django**, **React**, **MySQL**
 - 🤝 Open to collaboration on meaningful tech projects
-- 📫 Let's connect: [LinkedIn](linkedin.com/in/sadem-h/) . [PORTIFOLIO](#)
+- 📫 Let's connect: [LinkedIn](#) • [PORTFOLIO](#)
 
 ---
 
@@ -34,8 +33,9 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
@@ -44,8 +44,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crackasuper&layout=compact&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobaChimdesa&layout=compact&theme=default" height="160"/>
 </p>
 
 ---
@@ -55,3 +54,4 @@
 > "First, solve the problem. Then, write the code." – John Johnson
 
 ---
+
