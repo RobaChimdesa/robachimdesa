@@ -22,7 +22,7 @@
 - 🌱 Exploring **system design**, **testing**, and **DevOps**
 - ⚙️ My tech stack includes: **Python**, **JavaScript**, **Django**, **React**, **MySQL**
 - 🤝 Open to collaboration on meaningful tech projects
-- 📫 Let's connect: [LinkedIn](#) • [PORTFOLIO](https://robachimdesa-website.vercel.app/)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/roba-chimdessa-b59a9536b/) • [PORTFOLIO](https://robachimdesa-website.vercel.app/)
 
 ---
 
