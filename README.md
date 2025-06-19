@@ -5,7 +5,7 @@
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Design+Specialist;Django+%26+React+Expert;Clean+Code+Advocate&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Design+Specialist;Django+%26+React+Expert;Computer+Engineer;Clean+Code+Advocate&center=true&width=500&height=45">
 </p>
 
 <h1 align="center">Hi there, I'm Roba Chimdesa 👋</h1>
