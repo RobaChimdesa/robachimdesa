@@ -1,7 +1,7 @@
 <!-- Profile banner -->
 <p align="center">
   <a href="https://yourwebsite.com" target="_blank" title="Visit Roba Chimdesa">
-    <img src="roba_chimdesa_banner.png" alt="Roba Chimdesa banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+    <img src="roba.jpg" alt="Roba Chimdesa banner" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
   </a>
 </p>
 
